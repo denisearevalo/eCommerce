@@ -30,5 +30,5 @@ If you would like to contribute, please create a pull request and I will get to 
 Kindly, 
 Denise A
 
-### Demo
-![load page](./assets/ecommerce.gif)
+### Link
+https://dashboard.heroku.com/apps/hwecommerce-backend-13
